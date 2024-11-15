@@ -25,3 +25,8 @@ print("더하기 결과:", add(num1, num2))
 print("빼기 결과:", subtract(num1, num2))
 print("곱하기 결과:", multiply(num1, num2))
 print("나누기 결과:", divide(num1, num2))
+<<<<<<< Updated upstream
+print("왜 반영 안되니...엉엉엉어엉")
+=======
+print("This is a code update!")
+>>>>>>> Stashed changes
